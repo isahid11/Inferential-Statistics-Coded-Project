@@ -7,10 +7,17 @@ Analyze the datasets provided and use the concepts of Inferential Statistics to 
 
 
 ##Probability
+
 ##Joint Probability
+
 ##Conditional Probability
+
 ##Estimation
+
 ##Central Limit Theorem
+
 ##Hypothesis Testing
+
 ##ANOVA
+
 ##Probability Distribution
